@@ -2,12 +2,7 @@
 
 代码直戳: https://github.com/faif/python-patterns
 
-# 创建型模式
 
-## 工厂方法
-
-
-实例 -> 类 -> 类工厂
 
 ## 抽象工厂
 
